@@ -16,7 +16,7 @@ Initial public research repository for manuscript review and reproducibility sup
 
 ![CMR-Elite](fig4_cmrelite.png)
 
-![User Study](fig7_userstudy.png)
+![User Study](fig7_userstudy1.png)
 
 ---
 
