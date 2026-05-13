@@ -6,7 +6,17 @@
 
 ---
 
+## Repository Status
+
+Initial public research repository for manuscript review and reproducibility support.
+
+---
+
 ![Pipeline](fig2_pipeline.png)
+
+![CMR-Elite](fig4_cmrelite.png)
+
+![User Study](fig7_userstudy.png)
 
 ---
 
@@ -69,7 +79,7 @@ Implementation code will be released upon acceptance.
 ## Citation
 
 ```bibtex
-@article{ganeshak2025mvrefine3d,
+@article{ganeshak2026mvrefine3d,
   title={MV-Refine3D: A Multi-Stage Preprocessing Framework for Enhanced 
          3D Garment Reconstruction from Virtual Try-On Outputs},
   author={Ganesha K},
